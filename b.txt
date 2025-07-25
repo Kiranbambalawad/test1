@@ -13,8 +13,4 @@ Hello
 
 >>>>>>> Stashed changes
 
-<<<<<<< Updated upstream
 hellololo
-=======
-Hellooooooooooooooooooooooooooooooooooooooooooooooooooo
->>>>>>> Stashed changes
