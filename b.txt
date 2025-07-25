@@ -5,4 +5,10 @@ class a{
 
 }
 
+<<<<<<< Updated upstream
 Hi
+=======
+Hello
+
+
+>>>>>>> Stashed changes
